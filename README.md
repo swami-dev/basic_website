@@ -12,3 +12,11 @@ This is a simple and responsive resume website built using **HTML** and **Bootst
 ## License
 This project is open source and free to use.
 
+## Home Page
+![alt text](image.png)
+
+## Projects Page
+![alt text](image-1.png)
+
+## Resume Page
+![alt text](image-2.png)
