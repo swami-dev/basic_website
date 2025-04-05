@@ -1,0 +1,25 @@
+.main {
+    background: linear-gradient(to right, #f893dd, #0072ff);
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+  }
+  .footer {
+    background: #f8f9fa;
+    text-align: center;
+    padding: 10px 0;
+  }
+
+
+  .header {
+    background: #0072ff;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.section-title {
+    border-bottom: 2px solid #0072ff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
